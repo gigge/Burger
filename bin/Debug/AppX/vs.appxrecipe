@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MOR-PC</Machine>
+    <WindowsUser>Familien</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>43c0b352-58a0-41f3-99db-d86e42344ff9</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\familien\documents\visual studio 2013\Projects\App2\App2\App2.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>DD29C71EFC6DF1E8BE79FB5432504A8E60B710B7022211615FD1E8F9915A24E2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>43c0b352-58a0-41f3-99db-d86e42344ff9_1.0.0.0_neutral__k8ms87zteaj94</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>43c0b352-58a0-41f3-99db-d86e42344ff9_k8ms87zteaj94!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>43c0b352-58a0-41f3-99db-d86e42344ff9</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Familien</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\familien\documents\visual studio 2013\Projects\App2\App2\App2.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-09T08:29:29.458</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\familien\documents\visual studio 2013\Projects\App2\App2\App2.Windows\bin\Debug\App2.Windows.exe">
+      <PackagePath>App2.Windows.exe</PackagePath>
+      <Modified>2014-10-09T08:29:28.280</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\familien\documents\visual studio 2013\Projects\App2\App2\App2.Windows\Assets\background-dark1.jpg">
+      <PackagePath>Assets\background-dark1.jpg</PackagePath>
+      <Modified>2014-10-09T08:12:49.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\familien\documents\visual studio 2013\Projects\App2\App2\App2.Windows\Assets\brand.gif">
+      <PackagePath>Assets\brand.gif</PackagePath>
+      <Modified>2014-10-09T08:28:31.103</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\familien\documents\visual studio 2013\Projects\App2\App2\App2.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\familien\documents\visual studio 2013\Projects\App2\App2\App2.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\familien\documents\visual studio 2013\Projects\App2\App2\App2.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\familien\documents\visual studio 2013\Projects\App2\App2\App2.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\familien\documents\visual studio 2013\Projects\App2\App2\App2.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-09T08:29:27.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\familien\documents\visual studio 2013\Projects\App2\App2\App2.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-10-09T08:29:27.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\familien\documents\visual studio 2013\Projects\App2\App2\App2.Windows\bin\Debug\App2.Windows.xr.xml">
+      <PackagePath>App2.Windows.xr.xml</PackagePath>
+      <Modified>2014-10-09T08:29:27.207</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\familien\documents\visual studio 2013\Projects\App2\App2\App2.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-09T08:29:28.606</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
